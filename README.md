@@ -6,7 +6,7 @@ Estudo a dor do cliente, projeto solução própria e entrego com automação e 
 Nada genérico.
 
 🌐 **Site:** [infinityprocode.com.br](https://infinityprocode.com.br)
-📍 **Caraguatatuba · SP · Brasil**
+📍 **São Paulo · SP · Brasil**
 ✉️ **Contato:** infinityprocode@gmail.com
 
 ---
